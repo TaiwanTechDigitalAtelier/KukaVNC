@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /C start "" "%PROGRAMFILES%\TightVNC\tvnserver.exe" -run && timeout 1 && "%PROGRAMFILES%\TightVNC\tvnserver.exe" -controlapp -connect 172.31.50.60
